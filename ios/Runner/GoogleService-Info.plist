@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>760982280628-6c3jseak5nl43h4n2chr7h1igu28n4pr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.760982280628-6c3jseak5nl43h4n2chr7h1igu28n4pr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>760982280628-hi2lmngde5mqq4s140v6fophe2t6385c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwjIXj_HsjU1diQjN5BnMPPW1VdkdFEPY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>760982280628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.conectapro.dartsoft</string>
+	<key>PROJECT_ID</key>
+	<string>conecta-pro2-46orju</string>
+	<key>STORAGE_BUCKET</key>
+	<string>conecta-pro2-46orju.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:760982280628:ios:5a7988159ad0aef6367ae1</string>
+</dict>
+</plist>

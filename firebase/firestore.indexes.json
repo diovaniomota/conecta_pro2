@@ -1,0 +1,180 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "feedNoticias",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "completo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "treinos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "personal",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "treinos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "aluno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chats",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "users",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "last_message_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "feedNoticias",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "completo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "data",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "userid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timeStamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isAluno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "personal",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "agrupamentos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "treinoId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "video",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "agrupamentoid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "treinoId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "agrupamentos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "treinoId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "video",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "agrupamentoid",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "chat_messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "chat",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

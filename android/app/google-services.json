@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "760982280628",
+    "project_id": "conecta-pro2-46orju",
+    "storage_bucket": "conecta-pro2-46orju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760982280628:android:26de7874f24c9f99367ae1",
+        "android_client_info": {
+          "package_name": "com.conectapro.dartsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760982280628-hi2lmngde5mqq4s140v6fophe2t6385c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conectapro.dartsoft",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "760982280628-q7lfn6kgm9t8k6quplfukhu3qtv1feju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwF9duY_h-8OmGLKHeAWHnlhBmMZ0Sj3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760982280628-q7lfn6kgm9t8k6quplfukhu3qtv1feju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760982280628-6c3jseak5nl43h4n2chr7h1igu28n4pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.conectapro.dartsoft",
+                "app_store_id": "6483364540"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760982280628:android:b8818ce17788363d367ae1",
+        "android_client_info": {
+          "package_name": "com.dartsoft.conectapro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760982280628-q7lfn6kgm9t8k6quplfukhu3qtv1feju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwF9duY_h-8OmGLKHeAWHnlhBmMZ0Sj3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760982280628-q7lfn6kgm9t8k6quplfukhu3qtv1feju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760982280628-6c3jseak5nl43h4n2chr7h1igu28n4pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.conectapro.dartsoft",
+                "app_store_id": "6483364540"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
